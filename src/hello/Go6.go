@@ -2,6 +2,11 @@ package main
 
 import 	"fmt"
 
+/*
+STRUTS :
+
+Equivalent of Class in Go Lang
+ */
 
 // Equivalent to class/Declartion of car class
 type car struct {
