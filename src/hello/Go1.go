@@ -5,7 +5,7 @@ import ("fmt"
 
 func  main()  {
 
-/////////////////////Part 3 : Types//////////////////////////////////////////////
+/////////////////////Part 3 : Types / /////////////////////////////////////////////
 
 	// Number Addition
 	num1,num2 := 5.6,3.1
@@ -66,5 +66,7 @@ func index_handler(w http.ResponseWriter, r *http.Request ){
 func about_handler(w http.ResponseWriter, r *http.Request){
 	fmt.Fprintf(w, "Amazing about handler")
 }
+
+
 
 
