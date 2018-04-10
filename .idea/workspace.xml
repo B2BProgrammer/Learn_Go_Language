@@ -2,8 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bda6e2a-3da8-4851-a9e7-83128b592a66" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_1.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_10.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_11.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_2.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_6.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_8.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hello/Go_9.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hello/Go1.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello/Go1.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,19 +25,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Go1.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hello/Go1.go">
+      <file leaf-file-name="Go_10.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hello/Go_10.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="189">
+              <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
               <folding>
-                <element signature="e#14#42#0" expanded="true" />
+                <element signature="e#14#43#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Go_11.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hello/Go_11.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="735">
+              <caret line="35" column="2" lean-forward="true" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+              <folding>
+                <element signature="e#14#56#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
@@ -35,12 +65,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/hello/Go6.go" />
         <option value="$PROJECT_DIR$/src/hello/Go7.go" />
         <option value="$PROJECT_DIR$/src/hello/Go8.go" />
         <option value="$PROJECT_DIR$/src/hello/Go9.go" />
         <option value="$PROJECT_DIR$/src/hello/Go1.go" />
+        <option value="$PROJECT_DIR$/readme.md" />
+        <option value="$PROJECT_DIR$/src/hello/Go_1.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_2.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_3.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_4.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_5.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_6.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_7.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_8.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_9.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_10.go" />
+        <option value="$PROJECT_DIR$/src/hello/Go_11.go" />
       </list>
     </option>
   </component>
@@ -54,8 +95,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2496" />
-    <option name="y" value="109" />
+    <option name="x" value="371" />
+    <option name="y" value="200" />
     <option name="width" value="919" />
     <option name="height" value="541" />
   </component>
@@ -99,6 +140,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -121,40 +163,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build Go9.go">
-    <configuration name="go build Go1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="Learn_Go_Language" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/hello/Go1.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build Go6.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="Learn_Go_Language" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/hello/Go6.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build Go7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="Learn_Go_Language" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/hello/Go7.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build Go8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="Learn_Go_Language" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/hello/Go8.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
-    <configuration name="go build Go9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+  <component name="RunManager" selected="Go Build.go build Go_11.go">
+    <configuration name="go build Go9.go" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="Learn_Go_Language" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
@@ -162,34 +172,75 @@
       <filePath value="$PROJECT_DIR$/src/hello/Go9.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build Go_10.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn_Go_Language" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/hello/Go_10.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build Go_11.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn_Go_Language" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/hello/Go_11.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build Go_7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn_Go_Language" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/hello/Go_7.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build Go_8.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn_Go_Language" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/hello/Go_8.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
+    <configuration name="go build Go_9.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn_Go_Language" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/hello/Go_9.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <list>
       <item itemvalue="Go Build.go build Go9.go" />
-      <item itemvalue="Go Build.go build Go8.go" />
-      <item itemvalue="Go Build.go build Go6.go" />
-      <item itemvalue="Go Build.go build Go1.go" />
-      <item itemvalue="Go Build.go build Go7.go" />
+      <item itemvalue="Go Build.go build Go_7.go" />
+      <item itemvalue="Go Build.go build Go_8.go" />
+      <item itemvalue="Go Build.go build Go_9.go" />
+      <item itemvalue="Go Build.go build Go_10.go" />
+      <item itemvalue="Go Build.go build Go_11.go" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build Go7.go" />
-        <item itemvalue="Go Build.go build Go1.go" />
-        <item itemvalue="Go Build.go build Go6.go" />
-        <item itemvalue="Go Build.go build Go8.go" />
-        <item itemvalue="Go Build.go build Go9.go" />
+        <item itemvalue="Go Build.go build Go_11.go" />
+        <item itemvalue="Go Build.go build Go_10.go" />
+        <item itemvalue="Go Build.go build Go_9.go" />
+        <item itemvalue="Go Build.go build Go_8.go" />
+        <item itemvalue="Go Build.go build Go_7.go" />
       </list>
     </recent_temporary>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-9" width="1938" height="1098" extended-state="6" />
+    <frame x="65" y="-9" width="1864" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22101842" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917964" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -220,12 +271,140 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="567">
+            <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+          </first_editor>
+          <second_editor>
+            <js_state />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_1.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_2.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_3.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="69" lean-forward="true" selection-start-line="69" selection-end-line="69" />
+          <folding>
+            <element signature="e#234#334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/hello/Go1.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="62">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding>
             <element signature="e#14#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_4.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_5.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <element signature="e#124#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go6.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_6.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go7.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="818">
+          <caret line="47" lean-forward="true" selection-start-line="9" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go8.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_7.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="37" column="3" lean-forward="true" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_8.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_9.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go9.go">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_10.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="72" selection-start-line="9" selection-start-column="72" selection-end-line="9" selection-end-column="72" />
+          <folding>
+            <element signature="e#14#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hello/Go_11.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="2" lean-forward="true" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+          <folding>
+            <element signature="e#14#56#0" expanded="true" />
           </folding>
         </state>
       </provider>

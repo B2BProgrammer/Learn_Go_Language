@@ -3,13 +3,15 @@ Why Go ?
 Go - built form ground-up from google, systems, web-development lang
 -- Alternative for C++
 -- High frequency trading
--- Static typed, Varaible could change it's type
+-- Static typed, Variable could change it's type
 -- Concurrency in-built
 -- 
 
 
 -- Refer this project 
 https://golang.org/
+
+download - the installer
 
 -- Compile this a
 
