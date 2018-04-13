@@ -16,7 +16,7 @@ download - the installer
 -- Compile this a
 
 -- Location where - .go file is existing, execute below command to generate a compile code
-/Learn_Go_Language/src/hello> go install
+/Learn_Go_Language/src/edu.ajjarani.go.learn> go install
 --
 
 -- compiled code will sit in below locatin
@@ -27,3 +27,9 @@ download - the installer
 
 Types :
 Int, boolean,number, string
+
+
+## command used to import the external/3rd party library/packages
+go get gopkg.in/mgo.v2
+go get github.com/hyperledger/fabric/protos/peer
+go get itpUtils

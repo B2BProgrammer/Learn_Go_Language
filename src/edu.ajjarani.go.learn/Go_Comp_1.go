@@ -60,6 +60,18 @@ func main(){
 	var a int = 62
 	var aTypeCasted float64 = float64(a) // a
 	fmt.Println("TypeCasted Value of a", aTypeCasted)
+
+
+	/*
+	  3.g for Loop & if Statments Example
+	  */
+	for j :=0; j< 10 ;j++  {
+		if j < 5 {
+			fmt.Println("The Value of j below 5 :",j)
+		} else {
+			fmt.Println("The Value of j above 5 :",j)
+		}
+	}
 	fmt.Println("END--------------SECTION 3-----------------------")
 
 	/*
@@ -125,18 +137,13 @@ func main(){
 	delete(Scores,"Divya")
 	fmt.Println(Scores)
 
-	//5. Iteration over the Map : Enhanced For Loop
+	//5. Iteration over the Collection[Map] : Enhanced For Loop
 	for key,value := range Scores{
 		fmt.Println("KeyName :", key,"-","Value: ", value)
 	}
 	fmt.Println("START--------------SECTION 6-----------------------")
+
 }
-
-
-
-
-
-
 
 
 
