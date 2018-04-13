@@ -86,9 +86,8 @@ func main(){
 	fmt.Println("Address of varPoint, stored in variable :",varPointMemAdd) // Display the stored memory address of x : 0xc042054080
 	fmt.Println("Value of varPoint, Referenced using memory address :",*varPointMemAdd)
 
-	*varPointMemAdd = 5;
+	*varPointMemAdd = 5
 	fmt.Println("Value of varPoint, Referenced using memory address after updating using pointers :", *varPointMemAdd)
-
 	*varPointMemAdd = *varPointMemAdd**varPointMemAdd
 	fmt.Println("Manipulation of value of variables using pointers :",varPoint)
 	fmt.Println("START--------------SECTION 4-----------------------")

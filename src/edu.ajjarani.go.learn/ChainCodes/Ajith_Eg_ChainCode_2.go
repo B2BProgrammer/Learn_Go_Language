@@ -1,4 +1,4 @@
-package main
+package ChainCodes
 
 import (
 	"github.com/hyperledger/fabric/core/chaincode/shim"

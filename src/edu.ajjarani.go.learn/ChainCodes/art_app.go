@@ -24,7 +24,7 @@ limitations under the License.
 // Feedback and updates are appreciated
 ///////////////////////////////////////////////////////////////////////
 
-package main
+package ChainCodes
 
 import (
 	"encoding/json"
