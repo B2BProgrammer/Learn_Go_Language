@@ -24,7 +24,7 @@ Final Go Lang Code, Which utilizes all hte concepts available in Go Lang
 func main(){
 
 	// 1. Using fmt
-	fmt.Println("START--------------SECTION 1-----------------------")
+	fmt.Println("START--------------SECTION 1-------------------------")
 	fmt.Println("Start of Go Execution Flow is always from main()")
 	fmt.Println("END--------------SECTION 1-----------------------")
 
